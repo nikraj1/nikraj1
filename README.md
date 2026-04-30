@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Raj</h1>
-<h3 align="center">Software Engineer | Backend developer dedicated to solving practical, real-world problems through efficient solutions.</h3> 
+<h3 align="center">Software Engineer | Backend-focused developer passionate about solving real-world problems.</h3> 
 
 ---
 
