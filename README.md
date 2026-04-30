@@ -6,9 +6,9 @@
 ## 💫 About Me
 
 <h3>
-Hey, I’m Nikhil 👋 I’m a developer focused on building efficient <b>automation tools</b> and <b>backend systems</b>. I enjoy creating CLI utilities that solve everyday problems, from monitoring web services to managing large-scale media downloads. 
+Hey, I’m Nikhil 👋 I enjoy building solutions using Python, Java, and C/C++. Whether it’s tackling complex problems, exploring AI concepts, or designing efficient backend systems, I’m always eager for a challenge. I take pride in simplifying complicated logic into practical, working solutions—that’s what makes development exciting for me.
 
-Currently, I’m sharpening my <b>Computer Science</b> fundamentals for the GATE exam while exploring the intersection of <b>network security</b> and <b>cloud infrastructure</b>. I’m a fan of clean code, minimalist design, and building private, secure environments on the cloud. Let’s connect and build something awesome 🚀
+Outside of coding, I like listening to music, gaming, and exploring new ideas out of curiosity. I’m continuously learning, improving, and looking forward to creating something impactful. Let’s build something great together.🚀
 </h3>
 
 ## 👀 Profile Views
@@ -21,8 +21,8 @@ Currently, I’m sharpening my <b>Computer Science</b> fundamentals for the GATE
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/nikraj1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nikraj1@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/nikhilraj2979"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rajnikhil9631@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/nikraj1"><img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white"/></a>
 </p>
 
