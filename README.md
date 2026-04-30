@@ -84,4 +84,4 @@ I once used marble tile dimensions in my hostel room to calculate an optimal fur
 ---
 
 ## ⚡ Coding Profiles
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nikraj1/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nikhilraj2979/)
