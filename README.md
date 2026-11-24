@@ -6,7 +6,7 @@
 ## 💫 About Me
 
 <h3>
-Hey, I'm Nikhil 👋 I enjoy building solutions using Python, Java, and C/C++. Whether it's tackling complex problems, exploring AI concepts, or designing efficient backend systems, I'm always eager for a challenge. I take pride in simplifying complicated logic into practical, working solutions—that's what makes development exciting for me.
+Hey, I'm Nikhil 👋 I enjoy building solutions using Java, Python, and C/C++. Whether it's tackling complex problems, exploring AI concepts, or designing efficient backend systems, I'm always eager for a challenge. I take pride in simplifying complicated logic into practical, working solutions—that's what makes development exciting for me.
 
 Outside of coding, I like listening to music, gaming, and exploring new ideas out of curiosity. I'm continuously learning, improving, and looking forward to creating something impactful. Let's build something great together.🚀
 </h3>
