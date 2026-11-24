@@ -6,9 +6,9 @@
 ## 💫 About Me
 
 <h3>
-Hey, I’m Nikhil 👋 I enjoy building solutions using Python, Java, and C/C++. Whether it’s tackling complex problems, exploring AI concepts, or designing efficient backend systems, I’m always eager for a challenge. I take pride in simplifying complicated logic into practical, working solutions—that’s what makes development exciting for me.
+Hey, I'm Nikhil 👋 I enjoy building solutions using Python, Java, and C/C++. Whether it's tackling complex problems, exploring AI concepts, or designing efficient backend systems, I'm always eager for a challenge. I take pride in simplifying complicated logic into practical, working solutions—that's what makes development exciting for me.
 
-Outside of coding, I like listening to music, gaming, and exploring new ideas out of curiosity. I’m continuously learning, improving, and looking forward to creating something impactful. Let’s build something great together.🚀
+Outside of coding, I like listening to music, gaming, and exploring new ideas out of curiosity. I'm continuously learning, improving, and looking forward to creating something impactful. Let's build something great together.🚀
 </h3>
 
 ## 👀 Profile Views
@@ -33,46 +33,83 @@ Outside of coding, I like listening to music, gaming, and exploring new ideas ou
 ### 🚀 Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### ⚙️ Backend & Infrastructure
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 [MediaDownloader-telegrambot](https://github.com/nikraj1/MediaDownloader-telegrambot)
-An automated bot designed for high-volume media processing and downloads via Telegram.
-* **Tech:** Python
-* **Focus:** Automation and Telegram API integration.
+### 🤖 [CampusAI](https://github.com/nikraj1/CampusAI)
+An **agentic AI-powered student copilot** for personalised learning, career development, and project assistance — three full modules behind one orchestrator.
 
-### 📂 [file-search-tool](https://github.com/nikraj1/file-search-tool)
-A robust Python CLI tool for searching files by name, extension, and specific content within directories.
-* **Tech:** Python
-* **Focus:** File system manipulation and search optimization.
+| Module | What it does |
+|---|---|
+| **Study AI** | Upload PDF/DOCX notes → hybrid RAG retrieval (dense + full-text, RRF), cited answers with page numbers, corrective RAG, MCQ quizzes, topic mastery tracking |
+| **Career AI** | Resume parsing, explainable JD matching, skill-gap roadmaps, adaptive mock interviews with rubric scoring |
+| **Project AI** | Index a GitHub repo, code-aware retrieval, tool-using agent with verified `file:line` citations, README/API doc generation |
+| **Orchestrator** | Unified chat: intent classifier → single agent or bounded multi-step plan → synthesis, all traced and viewable in the UI |
 
-### 📓 [journalApp](https://github.com/nikraj1/journalApp)
-A backend-focused application for managing personal logs and entries.
-* **Tech:** Java
-* **Focus:** Object-oriented programming and data persistence.
-
-### 🌐 [url-status-checker](https://github.com/nikraj1/url-status-checker)
-A CLI tool to check website status codes and response times in real-time.
-* **Tech:** Python
-* **Focus:** Networking and web monitoring.
-
-### 💰 [expense-tracker](https://github.com/nikraj1/expense-tracker)
-A utility to track and categorize daily expenses for better financial management.
-* **Tech:** Python
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL+pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats:
+### 💳 [Digital Wallet & Double-Entry Ledger](https://github.com/nikraj1/digital-wallet-ledger)
+A **production-ready Digital Wallet backend** with a complete double-entry accounting ledger ensuring zero funds are ever lost or created out of thin air.
+
+* **Double-Entry Ledger:** Every Deposit, Withdrawal, and Transfer produces balanced DEBIT/CREDIT entries for full accounting integrity.
+* **Optimistic Locking:** Concurrent balance modifications protected with JPA `@Version` — high throughput without deadlocks.
+* **Idempotency:** All transaction APIs accept an `Idempotency-Key` header; duplicate requests safely replay the original result.
+* **Security:** Stateless JWT authentication + Spring Security.
+* **Testing:** 17+ integration, unit, and high-concurrency multi-threaded tests.
+
+**Tech Stack:**
+![Java](https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203.4-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+---
+
+### 🏙️ [Neighborhood Resource Sharing Platform](https://github.com/nikraj1/Neighborhood-Resource-Sharing-Platform)
+A **community-driven platform** that makes neighborhood resource sharing seamless, secure, and intuitive — connecting neighbors to borrow and lend items locally.
+
+* **Local Discovery:** Browse items available in your neighborhood with intuitive filtering and search, powered by map integration.
+* **Secure Borrowing & Lending:** Easy request, approval, and handover tracking workflows.
+* **Built-in Wallet System:** Manage simulated payments, deposits, and earnings through a secure virtual wallet.
+* **QR Code Handovers:** Scan QR codes during pickup and return for verifiable, friction-free item handovers.
+* **Modern UI/UX:** Responsive interface built with Tailwind CSS and Shadcn UI.
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet%20Maps-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nikraj1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=nikraj1&theme=dark&hide_border=false" width="48%"/>
