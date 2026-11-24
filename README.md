@@ -33,19 +33,16 @@ Outside of coding, I like listening to music, gaming, and exploring new ideas ou
 ### 🚀 Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### ⚙️ Backend & Infrastructure
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -62,8 +59,6 @@ An **agentic AI-powered student copilot** for personalised learning, career deve
 | **Orchestrator** | Unified chat: intent classifier → single agent or bounded multi-step plan → synthesis, all traced and viewable in the UI |
 
 **Tech Stack:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL+pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -100,9 +95,6 @@ A **community-driven platform** that makes neighborhood resource sharing seamles
 * **Modern UI/UX:** Responsive interface built with Tailwind CSS and Shadcn UI.
 
 **Tech Stack:**
-![React](https://img.shields.io/badge/React%2018-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet%20Maps-199900?style=flat-square&logo=leaflet&logoColor=white)
@@ -112,11 +104,8 @@ A **community-driven platform** that makes neighborhood resource sharing seamles
 # 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nikraj1&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=nikraj1&theme=dark&hide_border=false" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikraj1&theme=dark&hide_border=false&layout=compact" width="40%"/>
 </p>
-
-### ⚡ Fun Fact
-I once used marble tile dimensions in my hostel room to calculate an optimal furniture layout—I bring that same precision to my database schemas and code architecture.
 
 ---
 
